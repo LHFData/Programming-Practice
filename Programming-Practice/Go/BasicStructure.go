@@ -10,6 +10,12 @@ import (
 	//因此main包最后进行初始化
 )
 
+//常量的批量声明
+const (
+	pi = 3.1415926
+	e  = 2.71828
+)
+
 //语法方面，go的语句末不需要分号，除非一行有多条
 //在编译时，编译器会把
 //标识符，整数，浮点数，虚数，字符，字符串文字，关键字，运算符和分隔符这些内容之后的换行符换成分号
@@ -91,6 +97,21 @@ func main() {
 	fmt.Println(str[5:7])           //子串操作s[i:j]从i到j-1个字节组成新串
 	fmt.Println("字符串拼接", "concat"+str)
 	//字符串可进行比较，按字符顺序比
+	//go标准库字符串处理四大天王 bytes、strings、strconv、unicode 四个包
+	//常量测试
+	fmt.Println(packageExample.Friday)
+
+	//数据类型，数组
+	var arr1 [3]int            //声明
+	var arr2 = [...]int{1, 2}  //不定长初始化
+	var arr3 = [3]int{1, 2, 3} //定长初始化
+	fmt.Println(arr1[1], arr2[1], arr3[1])
+	//指定下标的初始化
+	arr4 := [...]string{1: "123", 2: "124"}
+	fmt.Println(arr4[1])
+	arr5 := [...]string{10: "lhf"}
+	fmt.Println(len(arr5), arr5[10])
+
 }
 
 //externalDemo 1
