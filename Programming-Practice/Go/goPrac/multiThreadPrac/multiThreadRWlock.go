@@ -6,19 +6,19 @@ import (
 	"time"
 )
 
-type MutexInfo struct {
+type MutexRWInfo struct {
 	mutex sync.RWMutex
 	infos []int
 }
 
-func (m *MutexInfo) writeInfo(value int) {
+func (m *MutexRWInfo) writeInfo(value int) {
 	m.mutex.Lock()
 	defer m.mutex.Unlock()
 	fmt.Println("write start", value)
 	m.infos = append(m.infos, value)
 	fmt.Println("write start end", value)
 }
-func (m *MutexInfo) readInfo(value int) {
+func (m *MutexRWInfo) readInfo(value int) {
 	m.mutex.RLock()
 	defer m.mutex.RUnlock()
 	fmt.Println("read start", value)
@@ -35,7 +35,7 @@ func printIntValue(value int, cond *sync.Cond) {
 	cond.L.Unlock()
 }
 func main() {
-	m := MutexInfo{}
+	m := MutexRWInfo{}
 	for i := 0; i < 10; i++ {
 		go m.writeInfo(i)
 		go m.readInfo(i)
