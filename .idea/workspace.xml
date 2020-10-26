@@ -31,7 +31,23 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build isParlindrome.go">
+  <component name="RunManager" selected="Go Build.go build day2.go">
+    <configuration name="go build day1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Programming-Practice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/interviewPrac/day1.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build day2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Programming-Practice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/interviewPrac/day2.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build isParlindrome.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
@@ -40,11 +56,11 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build linkList.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build lengthofLongestSubstrings.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/output/linkList.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/lengthofLongestSubstrings.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -58,9 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build day2.go" />
+        <item itemvalue="Go Build.go build day1.go" />
+        <item itemvalue="Go Build.go build lengthofLongestSubstrings.go" />
         <item itemvalue="Go Build.go build isParlindrome.go" />
         <item itemvalue="Go Build.go build twoNumAdd.go" />
-        <item itemvalue="Go Build.go build linkList.go" />
       </list>
     </recent_temporary>
   </component>
@@ -69,41 +87,46 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1251" height="203" key="GridCell.Tab.0.bottom" timestamp="1602507959725">
+    <state width="1251" height="203" key="GridCell.Tab.0.bottom" timestamp="1603717378234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602507959725" />
-    <state width="1251" height="203" key="GridCell.Tab.0.center" timestamp="1602507959724">
+    <state width="1251" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603717378234" />
+    <state width="1251" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602643171046" />
+    <state width="1251" height="203" key="GridCell.Tab.0.center" timestamp="1603717378234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="203" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602507959724" />
-    <state width="1251" height="203" key="GridCell.Tab.0.left" timestamp="1602507959724">
+    <state width="1251" height="203" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603717378234" />
+    <state width="1251" height="252" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602643171046" />
+    <state width="1251" height="203" key="GridCell.Tab.0.left" timestamp="1603717378234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="203" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602507959724" />
-    <state width="1251" height="203" key="GridCell.Tab.0.right" timestamp="1602507959725">
+    <state width="1251" height="203" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603717378234" />
+    <state width="1251" height="252" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602643171046" />
+    <state width="1251" height="203" key="GridCell.Tab.0.right" timestamp="1603717378234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="203" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602507959725" />
-    <state width="1251" height="252" key="GridCell.Tab.1.bottom" timestamp="1602507906620">
+    <state width="1251" height="203" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603717378234" />
+    <state width="1251" height="252" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602643171046" />
+    <state width="1251" height="252" key="GridCell.Tab.1.bottom" timestamp="1602643171046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="252" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602507906620" />
-    <state width="1251" height="252" key="GridCell.Tab.1.center" timestamp="1602507906620">
+    <state width="1251" height="252" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602643171046" />
+    <state width="1251" height="252" key="GridCell.Tab.1.center" timestamp="1602643171046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="252" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602507906620" />
-    <state width="1251" height="252" key="GridCell.Tab.1.left" timestamp="1602507906620">
+    <state width="1251" height="252" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602643171046" />
+    <state width="1251" height="252" key="GridCell.Tab.1.left" timestamp="1602643171046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="252" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602507906620" />
-    <state width="1251" height="252" key="GridCell.Tab.1.right" timestamp="1602507906620">
+    <state width="1251" height="252" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602643171046" />
+    <state width="1251" height="252" key="GridCell.Tab.1.right" timestamp="1602643171046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="252" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602507906620" />
-    <state x="1137" y="280" width="672" height="678" key="search.everywhere.popup" timestamp="1602491307998">
+    <state width="1251" height="252" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602643171046" />
+    <state x="1137" y="280" width="672" height="678" key="search.everywhere.popup" timestamp="1603716929422">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="1137" y="280" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603716929422" />
     <state x="1137" y="280" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602491307998" />
   </component>
   <component name="XDebuggerManager">
@@ -153,6 +176,16 @@
           <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/isParlindrome.go</url>
           <line>21</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/lengthofLongestSubstrings.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/lengthofLongestSubstrings.go</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
