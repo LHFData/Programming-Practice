@@ -32,6 +32,4 @@ func main(){
 	fmt.Println("new:",testNew)
 	fmt.Println("make:",testMake)
 
-
-
 }
