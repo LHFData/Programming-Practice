@@ -30,37 +30,38 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
-  <component name="RunManager" selected="Go Build.go build proofofStake.go">
-    <configuration name="go build day1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build RAFT.go">
+    <configuration name="go build RAFT.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/interviewPrac/day1.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/consesusPrac/RAFT.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build day2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build day5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/interviewPrac/day2.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/interviewPrac/day5.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build day3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build pbft.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/interviewPrac/day3.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/consesusPrac/pbft.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build day4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build proofofDStake.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/interviewPrac/day4.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/consesusPrac/proofofDStake.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -74,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build RAFT.go" />
+        <item itemvalue="Go Build.go build pbft.go" />
+        <item itemvalue="Go Build.go build proofofDStake.go" />
         <item itemvalue="Go Build.go build proofofStake.go" />
-        <item itemvalue="Go Build.go build day4.go" />
-        <item itemvalue="Go Build.go build day3.go" />
-        <item itemvalue="Go Build.go build day2.go" />
-        <item itemvalue="Go Build.go build day1.go" />
+        <item itemvalue="Go Build.go build day5.go" />
       </list>
     </recent_temporary>
   </component>
@@ -87,26 +88,34 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1251" height="203" key="GridCell.Tab.0.bottom" timestamp="1603896916958">
+    <state width="1877" height="203" key="GridCell.Tab.0.bottom" timestamp="1607178364021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1251" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603810846031" />
-    <state width="1251" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603896916958" />
-    <state width="1251" height="203" key="GridCell.Tab.0.center" timestamp="1603896916958">
+    <state width="1877" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607178364021" />
+    <state width="1251" height="203" key="GridCell.Tab.0.bottom/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606826690810" />
+    <state width="1251" height="203" key="GridCell.Tab.0.bottom/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1606045786804" />
+    <state width="1877" height="203" key="GridCell.Tab.0.center" timestamp="1607178364021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1251" height="203" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603810846030" />
-    <state width="1251" height="203" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603896916958" />
-    <state width="1251" height="203" key="GridCell.Tab.0.left" timestamp="1603896916958">
+    <state width="1877" height="203" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607178364021" />
+    <state width="1251" height="203" key="GridCell.Tab.0.center/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606826690810" />
+    <state width="1251" height="203" key="GridCell.Tab.0.center/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1606045786803" />
+    <state width="1877" height="203" key="GridCell.Tab.0.left" timestamp="1607178364021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1251" height="203" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603810846029" />
-    <state width="1251" height="203" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603896916958" />
-    <state width="1251" height="203" key="GridCell.Tab.0.right" timestamp="1603896916958">
+    <state width="1877" height="203" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607178364021" />
+    <state width="1251" height="203" key="GridCell.Tab.0.left/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606826690810" />
+    <state width="1251" height="203" key="GridCell.Tab.0.left/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1606045786803" />
+    <state width="1877" height="203" key="GridCell.Tab.0.right" timestamp="1607178364021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1251" height="203" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603810846031" />
-    <state width="1251" height="203" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603896916958" />
+    <state width="1877" height="203" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607178364021" />
+    <state width="1251" height="203" key="GridCell.Tab.0.right/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606826690810" />
+    <state width="1251" height="203" key="GridCell.Tab.0.right/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1606045786804" />
     <state width="1251" height="252" key="GridCell.Tab.1.bottom" timestamp="1602643171046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -123,11 +132,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1251" height="252" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602643171046" />
-    <state x="1137" y="280" width="672" height="678" key="search.everywhere.popup" timestamp="1603894244959">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1607173519716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607173519716" />
+    <state x="1137" y="280" width="672" height="678" key="search.everywhere.popup" timestamp="1606975510983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1137" y="280" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603716929422" />
-    <state x="1137" y="280" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603894244959" />
+    <state x="1137" y="280" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606975510982" />
+    <state x="1137" y="280" width="672" height="678" key="search.everywhere.popup/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606877431298" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -186,6 +200,11 @@
           <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/lengthofLongestSubstrings.go</url>
           <line>14</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/consesusPrac/proofofStake.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

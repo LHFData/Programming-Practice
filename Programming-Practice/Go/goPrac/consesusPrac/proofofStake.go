@@ -23,7 +23,7 @@ type Block struct {
 	Validator *Node
 }
 func genesisBlock() Block{
-	var genesBlock=Block{0,"我是你爹","","",time.Now().String(),&Node{0,0,"dd"}}
+	var genesBlock=Block{0,"创世块","","",time.Now().String(),&Node{0,0,"dd"}}
 	genesBlock.Hash=hex.EncodeToString(BlockHash(&genesBlock))
 	return genesBlock
 }
@@ -76,7 +76,7 @@ func main(){
 	InitNodes()
 
 	var genesisBlock=genesisBlock()
-	var newBlock=CreateNewBlock(&genesisBlock,"我是儿")
+	var newBlock=CreateNewBlock(&genesisBlock,"后续块")
 
 	fmt.Println(newBlock)
 	fmt.Println(newBlock.Validator.Address)
