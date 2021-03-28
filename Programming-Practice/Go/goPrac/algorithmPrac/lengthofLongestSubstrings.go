@@ -23,6 +23,7 @@ func lengthofLongestSubstring(s string) int{
 	fmt.Println(length)
 	fmt.Println(tail-head)
 	return length
+
 }
 func main(){
 	s:="accasdads"

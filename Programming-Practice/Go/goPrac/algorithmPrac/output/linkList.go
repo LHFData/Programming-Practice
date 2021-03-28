@@ -6,10 +6,10 @@ import (
 	"math/big"
 	//"time"
 )
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
+//type ListNode struct {
+//	Val  int
+//	Next *ListNode
+//}
 func(l *ListNode) PrintList(){
 	for l!=nil{
 		fmt.Print(l.Val,"->")

@@ -27,121 +27,80 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable..is.expanded" value="true" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
-  <component name="RunManager" selected="Go Build.go build RAFT.go">
-    <configuration name="go build RAFT.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkAndLearning\2019Learning\GoProject\Programming-Practice\Programming-Practice\Go\goPrac\algorithmPrac" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build helloworld.go">
+    <configuration name="go build helloworld.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/consesusPrac/RAFT.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/concurrentPrac/helloworld.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build day5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build maxSlidewindow.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/interviewPrac/day5.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/maxSlidewindow.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build pbft.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build numSquare.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/consesusPrac/pbft.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/numSquare.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build proofofDStake.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build pascalTriangle.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/consesusPrac/proofofDStake.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/pascalTriangle.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build proofofStake.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build removeNthFromtheFront.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/consesusPrac/proofofStake.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/removeNthFromtheFront.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build shortestPathTriangle.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Programming-Practice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/shortestPathTriangle.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build RAFT.go" />
-        <item itemvalue="Go Build.go build pbft.go" />
-        <item itemvalue="Go Build.go build proofofDStake.go" />
-        <item itemvalue="Go Build.go build proofofStake.go" />
-        <item itemvalue="Go Build.go build day5.go" />
+        <item itemvalue="Go Build.go build helloworld.go" />
+        <item itemvalue="Go Build.go build maxSlidewindow.go" />
+        <item itemvalue="Go Build.go build numSquare.go" />
+        <item itemvalue="Go Build.go build removeNthFromtheFront.go" />
+        <item itemvalue="Go Build.go build shortestPathTriangle.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1877" height="203" key="GridCell.Tab.0.bottom" timestamp="1607178364021">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1251" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603810846031" />
-    <state width="1877" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607178364021" />
-    <state width="1251" height="203" key="GridCell.Tab.0.bottom/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606826690810" />
-    <state width="1251" height="203" key="GridCell.Tab.0.bottom/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1606045786804" />
-    <state width="1877" height="203" key="GridCell.Tab.0.center" timestamp="1607178364021">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1251" height="203" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603810846030" />
-    <state width="1877" height="203" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607178364021" />
-    <state width="1251" height="203" key="GridCell.Tab.0.center/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606826690810" />
-    <state width="1251" height="203" key="GridCell.Tab.0.center/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1606045786803" />
-    <state width="1877" height="203" key="GridCell.Tab.0.left" timestamp="1607178364021">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1251" height="203" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603810846029" />
-    <state width="1877" height="203" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607178364021" />
-    <state width="1251" height="203" key="GridCell.Tab.0.left/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606826690810" />
-    <state width="1251" height="203" key="GridCell.Tab.0.left/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1606045786803" />
-    <state width="1877" height="203" key="GridCell.Tab.0.right" timestamp="1607178364021">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1251" height="203" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603810846031" />
-    <state width="1877" height="203" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607178364021" />
-    <state width="1251" height="203" key="GridCell.Tab.0.right/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606826690810" />
-    <state width="1251" height="203" key="GridCell.Tab.0.right/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1606045786804" />
-    <state width="1251" height="252" key="GridCell.Tab.1.bottom" timestamp="1602643171046">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1251" height="252" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602643171046" />
-    <state width="1251" height="252" key="GridCell.Tab.1.center" timestamp="1602643171046">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1251" height="252" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602643171046" />
-    <state width="1251" height="252" key="GridCell.Tab.1.left" timestamp="1602643171046">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1251" height="252" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602643171046" />
-    <state width="1251" height="252" key="GridCell.Tab.1.right" timestamp="1602643171046">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1251" height="252" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602643171046" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1607173519716">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607173519716" />
-    <state x="1137" y="280" width="672" height="678" key="search.everywhere.popup" timestamp="1606975510983">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1137" y="280" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1603716929422" />
-    <state x="1137" y="280" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606975510982" />
-    <state x="1137" y="280" width="672" height="678" key="search.everywhere.popup/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606877431298" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -206,7 +165,62 @@
           <line>2</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/reIsMatch Airbnb.go</url>
+          <line>28</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/removeDuplicates.go</url>
+          <line>21</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/rotateArray.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/searchInsert.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/maxSubArray.go</url>
+          <line>18</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/shortestPathTriangle.go</url>
+          <line>24</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/removeNthFromtheFront.go</url>
+          <line>26</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/removeNthFromtheFront.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/numSquare.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/maxSlidewindow.go</url>
+          <line>111</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="level" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
