@@ -39,28 +39,36 @@
       <recent name="D:\WorkAndLearning\2019Learning\GoProject\Programming-Practice\Programming-Practice\Go\goPrac\algorithmPrac" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build helloworld.go">
-    <configuration name="go build helloworld.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build hasCycle.go">
+    <configuration name="go build ContainerList.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/concurrentPrac/helloworld.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/Container/ContainerList.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build maxSlidewindow.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Tencent2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/maxSlidewindow.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/Tencent/Tencent2.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build numSquare.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Tencent3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/numSquare.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/Tencent/Tencent3.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build hasCycle.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Programming-Practice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/hasCycle.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -72,29 +80,21 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build removeNthFromtheFront.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build plusOne.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/removeNthFromtheFront.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build shortestPathTriangle.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Programming-Practice" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/shortestPathTriangle.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/plusOne.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build helloworld.go" />
-        <item itemvalue="Go Build.go build maxSlidewindow.go" />
-        <item itemvalue="Go Build.go build numSquare.go" />
-        <item itemvalue="Go Build.go build removeNthFromtheFront.go" />
-        <item itemvalue="Go Build.go build shortestPathTriangle.go" />
+        <item itemvalue="Go Build.go build hasCycle.go" />
+        <item itemvalue="Go Build.go build ContainerList.go" />
+        <item itemvalue="Go Build.go build plusOne.go" />
+        <item itemvalue="Go Build.go build Tencent3.go" />
+        <item itemvalue="Go Build.go build Tencent2.go" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +214,31 @@
           <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/maxSlidewindow.go</url>
           <line>111</line>
           <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/tree/levelOrder.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/List/mergeKList.go</url>
+          <line>78</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/backTracking/generateParentheis.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/Tencent/tencent1.go</url>
+          <line>49</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/Tencent/Tencent2.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="106" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
