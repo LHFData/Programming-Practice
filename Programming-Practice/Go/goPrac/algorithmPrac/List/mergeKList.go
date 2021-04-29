@@ -1,12 +1,12 @@
-package List
+package main
 
 import (
 	"fmt"
 )
-type ListNode struct {
-	Val int
-	Next *ListNode
-}
+//type ListNode struct {
+//	Val int
+//	Next *ListNode
+//}
 func CreateList(nums [][]int) []*ListNode{
 	var res []*ListNode
 	for i:=0;i<len(nums);i++{

@@ -25,6 +25,7 @@ func CreateList(nums [][]int) []*ListNode{
 	return res
 }
 func hasCycle(head *ListNode) bool {
+
 	var fast *ListNode
 	var slow *ListNode
 	nilHead:=new(ListNode)
@@ -54,7 +55,6 @@ func hasCycle(head *ListNode) bool {
 		count++
 		slow=slow.Next
 	}
-
 
 	return true
 }

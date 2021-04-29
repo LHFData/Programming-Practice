@@ -8,9 +8,15 @@ func print(l *list.List){
 		fmt.Println(e.Value)
 	}
 }
+type TreeNode struct{
+	Val int
+	Left *TreeNode
+	Right *TreeNode
+}
 func main(){
 	l:=list.New()
-	l.PushBack(1)
-	l.PushBack(2)
-	print(l)
+	s:=&TreeNode{2,nil,nil}
+	l.PushBack(s)
+	ss:=l.Back().Value.(*TreeNode)
+	fmt.Println(ss.Val)
 }

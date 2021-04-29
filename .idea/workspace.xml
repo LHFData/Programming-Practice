@@ -18,6 +18,13 @@
     </option>
   </component>
   <component name="GOROOT" path="$PROJECT_DIR$/../../../Go" />
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1iccyBj2BNcjafko5mMFNg0aqXk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,43 +39,36 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkAndLearning\2019Learning\GoProject\Programming-Practice\Programming-Practice\Go\goPrac\algorithmPrac\Sort" />
       <recent name="D:\WorkAndLearning\2019Learning\GoProject\Programming-Practice\Programming-Practice\Go\goPrac\algorithmPrac" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build hasCycle.go">
+  <component name="RunManager" selected="Go Build.go build ContainerList.go">
     <configuration name="go build ContainerList.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/Container/ContainerList.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/containerPrac/ContainerList.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Tencent2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build minStack.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/Tencent/Tencent2.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/objectOrient/minStack.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Tencent3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build obj1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/Tencent/Tencent3.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build hasCycle.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Programming-Practice" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/hasCycle.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/objectOrient/obj1.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -80,27 +80,38 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build plusOne.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build prac1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Programming-Practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/plusOne.go" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/concurrentPrac/prac1.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build zhiziPrint.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Programming-Practice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/tree/zhiziPrint.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build hasCycle.go" />
         <item itemvalue="Go Build.go build ContainerList.go" />
-        <item itemvalue="Go Build.go build plusOne.go" />
-        <item itemvalue="Go Build.go build Tencent3.go" />
-        <item itemvalue="Go Build.go build Tencent2.go" />
+        <item itemvalue="Go Build.go build zhiziPrint.go" />
+        <item itemvalue="Go Build.go build minStack.go" />
+        <item itemvalue="Go Build.go build obj1.go" />
+        <item itemvalue="Go Build.go build prac1.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -217,7 +228,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/tree/levelOrder.go</url>
-          <line>20</line>
+          <line>16</line>
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
@@ -239,6 +250,81 @@
           <url>file://$PROJECT_DIR$/Programming-Practice/Go/Tencent/Tencent2.go</url>
           <line>20</line>
           <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/basicPrac/stringPrac.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/backTracking/subSet.go</url>
+          <line>5</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/HashTable/validSudoku.go</url>
+          <line>59</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/backTracking/permuteUnique.go</url>
+          <line>11</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/TenMinCompetetion/countAndSay.go</url>
+          <line>27</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/tree/bsTreeIterator.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/dynamicProgramming/dugeonGame.go</url>
+          <line>25</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/backTracking/wordSearch.go</url>
+          <line>5</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/robotMoving.go</url>
+          <line>25</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/dynamicProgramming/cutRopeII.go</url>
+          <line>23</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/dynamicProgramming/isMatch.go</url>
+          <line>24</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/FSM/isNum.go</url>
+          <line>25</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/List/mergeList.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/objectOrient/minStack.go</url>
+          <line>58</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Programming-Practice/Go/goPrac/algorithmPrac/tree/zhiziPrint.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="168" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
