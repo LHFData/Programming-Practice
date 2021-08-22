@@ -14,9 +14,12 @@ type TreeNode struct{
 	Right *TreeNode
 }
 func main(){
-	l:=list.New()
-	s:=&TreeNode{2,nil,nil}
-	l.PushBack(s)
-	ss:=l.Back().Value.(*TreeNode)
-	fmt.Println(ss.Val)
+	//l:=list.New()
+	//s:=&TreeNode{2,nil,nil}
+	//l.PushBack(s)
+	//ss:=l.Back().Value.(*TreeNode)
+	//fmt.Println(ss.Val)
+	//
+	s:=3%3
+	fmt.Println(s)
 }

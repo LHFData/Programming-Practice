@@ -12,7 +12,7 @@ type BSTIterator struct {
     length int
 }
 
-func Constructor(root *TreeNode) BSTIterator {
+func bsConstructor(root *TreeNode) BSTIterator {
 	temp:=root
 	var count int
 	stack:=list.New()
@@ -61,7 +61,7 @@ func main(){
 	r.Val=0
 	t.Left=r
 	t.Right=l
-	b:=Constructor(t)
+	b:=bsConstructor(t)
 	fmt.Println()
 	fmt.Println(b.Next(),b.HasNext(),b.Next(),b.HasNext(),b.Next(),b.HasNext())
 }
