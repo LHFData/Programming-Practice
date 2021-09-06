@@ -1,4 +1,4 @@
-package AlgorithemTemplate
+package algorithemTemplate
 
 /**
 回溯算法模板

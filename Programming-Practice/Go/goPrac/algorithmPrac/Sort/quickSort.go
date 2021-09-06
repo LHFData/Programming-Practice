@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func partition(arr []int,i int,j int) int{
+func Partition(arr []int,i int,j int) int{
 	pivot:=arr[i]
 	for i<j{
 		for i<j&&arr[j]>pivot{
@@ -23,7 +23,7 @@ func partition(arr []int,i int,j int) int{
 	arr[i]=pivot
 	return i
 }
-func QuickSort(arr []int,low int,high int){
+func quickSort(arr []int,low int,high int){
 	var pivotPos int
 	if low<high{
 		pivotPos=partition(arr,low,high)

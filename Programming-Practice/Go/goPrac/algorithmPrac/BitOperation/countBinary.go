@@ -1,4 +1,4 @@
-package BitOperation
+package bitOperation
 
 import (
 	"fmt"
